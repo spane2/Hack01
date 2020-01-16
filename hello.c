@@ -10,7 +10,9 @@
 int main (void) {
 
 	printf("Sam Pane.\n");
-	printf("Computer Science\n")
+	printf("Computer Science\n");
+	printf("Dylan Young"\n);
+	printf("Computer Science"\n);
 
 	return 0;
 }
